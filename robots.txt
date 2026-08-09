@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-98iikr.jambul126.xyz/sitemap.xml
